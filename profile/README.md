@@ -25,18 +25,9 @@ To set the global standard for verifiable IoT telemetry, ensuring that connected
 ## Vision
 A world where IoT, robotics, and autonomous systems operate on tamper-proof, integrity-verified data — even in low-power, low-bandwidth environments.
 
-## Design Principles
+## Principles
 - Lightweight  
 - Platform-agnostic  
 - Secure by design  
 - Quantum-inspired integrity concepts  
 - Ready for everything from microcontrollers to cloud-native AI
-
----
-
-## IoTIVP Repositories
-- **IoTIVP-Binary** — wire-level data format  
-- **IoTIVP-Core** — structured data + hashing  
-- **IoTIVP-Verify** — trust scoring engine  
-- **IoTIVP-Gateway** — data pipeline bridge  
-- **.github** — organization profile
